@@ -1,4 +1,6 @@
 var exec = require('cordova/exec');
+// Cordova 4.0.0 
+// var exec = 'cordova/exec';
 function GpsSettings() {
 }
 GpsSettings.prototype.launch = function() {
